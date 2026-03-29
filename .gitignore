@@ -1,0 +1,13 @@
+# Node modules (bij Discord bots bv)
+node_modules/
+.env
+
+# Env bestanden (belangrijk voor tokens!)
+.env
+
+# Logs
+*.log
+
+# OS bestanden
+.DS_Store
+Thumbs.db
